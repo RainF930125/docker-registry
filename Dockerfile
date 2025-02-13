@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor:v0.50.0
+FROM ghcr.io/open-webui/open-webui:ollama
