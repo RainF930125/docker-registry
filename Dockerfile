@@ -1,1 +1,1 @@
-FROM ghcr.io/open-webui/open-webui:main
+FROM gcr.io/cadvisor/cadvisor:v0.53.0
