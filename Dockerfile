@@ -1,1 +1,1 @@
-FROM arm64v8/nginx:alpine
+FROM arm64v8/nginx
